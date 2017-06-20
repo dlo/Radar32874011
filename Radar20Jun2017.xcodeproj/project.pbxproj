@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3779903A1EF03FCA001286EF /* Radar13Jun2017.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Radar13Jun2017.entitlements; sourceTree = "<group>"; };
+		3779903A1EF03FCA001286EF /* Radar20Jun2017.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Radar20Jun2017.entitlements; sourceTree = "<group>"; };
 		3779903C1EF03FCA001286EF /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = System/Library/Frameworks/HealthKit.framework; sourceTree = SDKROOT; };
 		37C252A61EF03E1B009268A2 /* Radar20Jun2017.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Radar20Jun2017.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37C252A91EF03E1B009268A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		37C252A81EF03E1B009268A2 /* Radar20Jun2017 */ = {
 			isa = PBXGroup;
 			children = (
-				3779903A1EF03FCA001286EF /* Radar13Jun2017.entitlements */,
+				3779903A1EF03FCA001286EF /* Radar20Jun2017.entitlements */,
 				37C252A91EF03E1B009268A2 /* AppDelegate.swift */,
 				37C252AB1EF03E1B009268A2 /* ViewController.swift */,
 				37C252AD1EF03E1B009268A2 /* Main.storyboard */,
@@ -288,9 +288,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Radar13Jun2017/Radar13Jun2017.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Radar20Jun2017/Radar20Jun2017.entitlements;
 				DEVELOPMENT_TEAM = 63553QQ62F;
-				INFOPLIST_FILE = Radar13Jun2017/Info.plist;
+				INFOPLIST_FILE = Radar20Jun2017/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lionheartsw.Radar13Jun2017;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -303,9 +303,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = Radar13Jun2017/Radar13Jun2017.entitlements;
+				CODE_SIGN_ENTITLEMENTS = Radar20Jun2017/Radar20Jun2017.entitlements;
 				DEVELOPMENT_TEAM = 63553QQ62F;
-				INFOPLIST_FILE = Radar13Jun2017/Info.plist;
+				INFOPLIST_FILE = Radar20Jun2017/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lionheartsw.Radar13Jun2017;
 				PRODUCT_NAME = "$(TARGET_NAME)";
